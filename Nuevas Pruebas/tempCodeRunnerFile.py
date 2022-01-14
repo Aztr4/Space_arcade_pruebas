@@ -1,0 +1,1 @@
+pygame.transform.scale(pygame.image.load("assets/background.png").convert(),(1000,600))
